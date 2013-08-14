@@ -1,5 +1,3 @@
 <?php
-	echo 'hello word';
-	die;
-	echo 'guanjianghui';
+	echo 'hello world';
 ?>
