@@ -18,7 +18,7 @@ function judgment_cc_token( )
 
 	if ( !isset($_COOKIE['cc_token']) ) {
 		header("Location: {$Location}");
-		header("Set-Cookie:cc_token={$zz_token};path=/;domain={$domain};expires=".gmstrftime("%A, %d-%b-%Y %H:%M:%S GMT", time() + (86400 * 365)));
+		header("Set-Cookie:cc_token={$cc_token};path=/;domain={$domain};expires=".gmstrftime("%A, %d-%b-%Y %H:%M:%S GMT", time() + (86400 * 365)));
 	}
 
 	if ( $_COOKIE['cc_token'] == $cc_token ) {
