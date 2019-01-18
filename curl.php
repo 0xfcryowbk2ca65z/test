@@ -15,9 +15,9 @@
 		$info  = curl_getinfo($ch);// 获取一个cURL连接资源句柄的信息
 		$errno = curl_errno($ch);
 		$error = curl_error($ch);
-		P($info);
-		P($errno);
-		P($error);
+		print_r($info);
+		print_r($errno);
+		print_r($error);
 	}
 
 	//CURLINFO_EFFECTIVE_URL - 最后一个有效的URL地址
