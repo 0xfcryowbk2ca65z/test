@@ -1,0 +1,4175 @@
+[
+{
+AirlineName: "Amber Air (0A)",
+IATACode: "0A"
+},
+{
+AirlineName: "BlueAir (0B)",
+IATACode: "0B"
+},
+{
+AirlineName: "Catovair (0C)",
+IATACode: "0C"
+},
+{
+AirlineName: "Darwin Airline SA Lugano (0D)",
+IATACode: "0D"
+},
+{
+AirlineName: "Evergreen International (0E)",
+IATACode: "0E"
+},
+{
+AirlineName: "Aircompany Kokshetau (0K)",
+IATACode: "0K"
+},
+{
+AirlineName: "Palau Asia (0P)",
+IATACode: "0P"
+},
+{
+AirlineName: "Royal Airways Limited (0S)",
+IATACode: "0S"
+},
+{
+AirlineName: "Vietnam Air Service Co. (0V)",
+IATACode: "0V"
+},
+{
+AirlineName: "West Caribbean Costa Rica (0W)",
+IATACode: "0W"
+},
+{
+AirlineName: "Yeti Airlines (0Y)",
+IATACode: "0Y"
+},
+{
+AirlineName: "Branson Air Express (1X)",
+IATACode: "1X"
+},
+{
+AirlineName: "Deutsche Bahn (2A)",
+IATACode: "2A"
+},
+{
+AirlineName: "Albawings (2B)",
+IATACode: "2B"
+},
+{
+AirlineName: "S.N.C.F. French Rail (2C)",
+IATACode: "2C"
+},
+{
+AirlineName: "Dynamic Airways (2D)",
+IATACode: "2D"
+},
+{
+AirlineName: "Smokey Bay (2E)",
+IATACode: "2E"
+},
+{
+AirlineName: "Frontier Flying Service (2F)",
+IATACode: "2F"
+},
+{
+AirlineName: "San Juan Airlines (2G)",
+IATACode: "2G"
+},
+{
+AirlineName: "Thalys International (2H)",
+IATACode: "2H"
+},
+{
+AirlineName: "STAR PERU (2I)",
+IATACode: "2I"
+},
+{
+AirlineName: "Air Burkina (2J)",
+IATACode: "2J"
+},
+{
+AirlineName: "Avianca Ecuador (2K)",
+IATACode: "2K"
+},
+{
+AirlineName: "Helvetic Airways (2L)",
+IATACode: "2L"
+},
+{
+AirlineName: "Maya Island Air (2M)",
+IATACode: "2M"
+},
+{
+AirlineName: "Nextjet (2N)",
+IATACode: "2N"
+},
+{
+AirlineName: "PAL Express (2P)",
+IATACode: "2P"
+},
+{
+AirlineName: "AVITRANS NORDIC (2Q)",
+IATACode: "2Q"
+},
+{
+AirlineName: "Via Rail Canada (2R)",
+IATACode: "2R"
+},
+{
+AirlineName: "Satgur Air Transport (2S)",
+IATACode: "2S"
+},
+{
+AirlineName: "Tulpar Avia Service (2T)",
+IATACode: "2T"
+},
+{
+AirlineName: "Sun D'Or International Airlines (2U)",
+IATACode: "2U"
+},
+{
+AirlineName: "Amtrak (2V)",
+IATACode: "2V"
+},
+{
+AirlineName: "Welcome Air (2W)",
+IATACode: "2W"
+},
+{
+AirlineName: "Airway Express (2X)",
+IATACode: "2X"
+},
+{
+AirlineName: "Air Andaman (2Y)",
+IATACode: "2Y"
+},
+{
+AirlineName: "Passaredo (2Z)",
+IATACode: "2Z"
+},
+{
+AirlineName: "Chu Kong Passenger Transport (3A)",
+IATACode: "3A"
+},
+{
+AirlineName: "Job Air (3B)",
+IATACode: "3B"
+},
+{
+AirlineName: "Regionsair (3C)",
+IATACode: "3C"
+},
+{
+AirlineName: "Denim Air (3D)",
+IATACode: "3D"
+},
+{
+AirlineName: "Air Choice One (3E)",
+IATACode: "3E"
+},
+{
+AirlineName: "Pacific Airways (3F)",
+IATACode: "3F"
+},
+{
+AirlineName: "Gambia Bird Airlines (3G)",
+IATACode: "3G"
+},
+{
+AirlineName: "Air Inuit (3H)",
+IATACode: "3H"
+},
+{
+AirlineName: "Aerolineas Del Sur (3I)",
+IATACode: "3I"
+},
+{
+AirlineName: "Jubba Airways (3J)",
+IATACode: "3J"
+},
+{
+AirlineName: "Jetstar Asia (3K)",
+IATACode: "3K"
+},
+{
+AirlineName: "Intersky Luftfahrt (3L)",
+IATACode: "3L"
+},
+{
+AirlineName: "Silver Airways (3M)",
+IATACode: "3M"
+},
+{
+AirlineName: "Air Urga (3N)",
+IATACode: "3N"
+},
+{
+AirlineName: "Air Arabia Maroc (3O)",
+IATACode: "3O"
+},
+{
+AirlineName: "Tiara Air (3P)",
+IATACode: "3P"
+},
+{
+AirlineName: "Yunnan Airlines (3Q)",
+IATACode: "3Q"
+},
+{
+AirlineName: "Moskovia Airlines (3R)",
+IATACode: "3R"
+},
+{
+AirlineName: "Air Antilles (3S)",
+IATACode: "3S"
+},
+{
+AirlineName: "Turan Air (3T)",
+IATACode: "3T"
+},
+{
+AirlineName: "Sichuan Airlines (3U)",
+IATACode: "3U"
+},
+{
+AirlineName: "TNT Airways (3V)",
+IATACode: "3V"
+},
+{
+AirlineName: "EuroManx (3W)",
+IATACode: "3W"
+},
+{
+AirlineName: "Premier Trans Aire  (3X)",
+IATACode: "3X"
+},
+{
+AirlineName: "Kartika Airlines (3Y)",
+IATACode: "3Y"
+},
+{
+AirlineName: "Aerodynamics (4A)",
+IATACode: "4A"
+},
+{
+AirlineName: "Boutique Air (4B)",
+IATACode: "4B"
+},
+{
+AirlineName: "LATAM Airlines Colombia (4C)",
+IATACode: "4C"
+},
+{
+AirlineName: "Air Sinai (4D)",
+IATACode: "4D"
+},
+{
+AirlineName: "Tanana Air Service (4E)",
+IATACode: "4E"
+},
+{
+AirlineName: "Air-City (4F)",
+IATACode: "4F"
+},
+{
+AirlineName: "Gazpromavia (4G)",
+IATACode: "4G"
+},
+{
+AirlineName: "Albatros Airways (4H)",
+IATACode: "4H"
+},
+{
+AirlineName: "Somon Air (4J)",
+IATACode: "4J"
+},
+{
+AirlineName: "Kenn Borek Air (4K)",
+IATACode: "4K"
+},
+{
+AirlineName: "Georgian International Airlines (4L)",
+IATACode: "4L"
+},
+{
+AirlineName: "LATAM Airlines Argentina (4M)",
+IATACode: "4M"
+},
+{
+AirlineName: "Air North (4N)",
+IATACode: "4N"
+},
+{
+AirlineName: "Interjet (4O)",
+IATACode: "4O"
+},
+{
+AirlineName: "Air Polonia (4P)",
+IATACode: "4P"
+},
+{
+AirlineName: "Safi Airways (4Q)",
+IATACode: "4Q"
+},
+{
+AirlineName: "HI Hamburg International (4R)",
+IATACode: "4R"
+},
+{
+AirlineName: "SOL Air (4S)",
+IATACode: "4S"
+},
+{
+AirlineName: "Belair Airlines (4T)",
+IATACode: "4T"
+},
+{
+AirlineName: "Germanwings (4U)",
+IATACode: "4U"
+},
+{
+AirlineName: "BVI Airways (4V)",
+IATACode: "4V"
+},
+{
+AirlineName: "Warbelow's Air Ventures (4W)",
+IATACode: "4W"
+},
+{
+AirlineName: "Atlantic Express Airlines (4X)",
+IATACode: "4X"
+},
+{
+AirlineName: "Yute Air Alaska (4Y)",
+IATACode: "4Y"
+},
+{
+AirlineName: "South African Airlink (4Z)",
+IATACode: "4Z"
+},
+{
+AirlineName: "Alpine Aviation (5A)",
+IATACode: "5A"
+},
+{
+AirlineName: "Chanchangi Airlines (5B)",
+IATACode: "5B"
+},
+{
+AirlineName: "Nature Air (5C)",
+IATACode: "5C"
+},
+{
+AirlineName: "Aerolitoral (5D)",
+IATACode: "5D"
+},
+{
+AirlineName: "SGA (5E)",
+IATACode: "5E"
+},
+{
+AirlineName: "Fly One S.R.L. (5F)",
+IATACode: "5F"
+},
+{
+AirlineName: "Aerocuahonte SA de CV (5G)",
+IATACode: "5G"
+},
+{
+AirlineName: "Five Forty Air (5H)",
+IATACode: "5H"
+},
+{
+AirlineName: "Alsa Grupo SLU (5I)",
+IATACode: "5I"
+},
+{
+AirlineName: "Cebu Pacific (5J)",
+IATACode: "5J"
+},
+{
+AirlineName: "Hi Fly Transportes Aereo (5K)",
+IATACode: "5K"
+},
+{
+AirlineName: "AeroSur (5L)",
+IATACode: "5L"
+},
+{
+AirlineName: "Sibaviatrans (5M)",
+IATACode: "5M"
+},
+{
+AirlineName: "NORDAVIA (5N)",
+IATACode: "5N"
+},
+{
+AirlineName: "ASL Airlines France (5O)",
+IATACode: "5O"
+},
+{
+AirlineName: "Small Planet Airlines GmbH (5P)",
+IATACode: "5P"
+},
+{
+AirlineName: "BQB Lineas Aereas (5Q)",
+IATACode: "5Q"
+},
+{
+AirlineName: "Karthago Airlines (5R)",
+IATACode: "5R"
+},
+{
+AirlineName: "Canadian North (5T)",
+IATACode: "5T"
+},
+{
+AirlineName: "TAG Airlines (5U)",
+IATACode: "5U"
+},
+{
+AirlineName: "Lviv Airlines (5V)",
+IATACode: "5V"
+},
+{
+AirlineName: "Iceland Express (5W)",
+IATACode: "5W"
+},
+{
+AirlineName: "Cemair (5Z)",
+IATACode: "5Z"
+},
+{
+AirlineName: "Aviacsa (6A)",
+IATACode: "6A"
+},
+{
+AirlineName: "Britannia Airways (6B)",
+IATACode: "6B"
+},
+{
+AirlineName: "Air Timor S.A. (6C)",
+IATACode: "6C"
+},
+{
+AirlineName: "Travel Service Airlines (6D)",
+IATACode: "6D"
+},
+{
+AirlineName: "IndiGo Air (6E)",
+IATACode: "6E"
+},
+{
+AirlineName: "Primera Air Nordic (6F)",
+IATACode: "6F"
+},
+{
+AirlineName: "Sun Air Express (6G)",
+IATACode: "6G"
+},
+{
+AirlineName: "Israir (6H)",
+IATACode: "6H"
+},
+{
+AirlineName: "Air Alsie (6I)",
+IATACode: "6I"
+},
+{
+AirlineName: "Solaseed Air (6J)",
+IATACode: "6J"
+},
+{
+AirlineName: "Asian Spirit (6K)",
+IATACode: "6K"
+},
+{
+AirlineName: "Aklak Air (6L)",
+IATACode: "6L"
+},
+{
+AirlineName: "Maximus Airlines (6M)",
+IATACode: "6M"
+},
+{
+AirlineName: "Nordic Regional (6N)",
+IATACode: "6N"
+},
+{
+AirlineName: "Club Air (6P)",
+IATACode: "6P"
+},
+{
+AirlineName: "Cham Wings Airlines (6Q)",
+IATACode: "6Q"
+},
+{
+AirlineName: "ALROSA Air Company (6R)",
+IATACode: "6R"
+},
+{
+AirlineName: "Saudi Gulf Airlines (6S)",
+IATACode: "6S"
+},
+{
+AirlineName: "Air Mandalay (6T)",
+IATACode: "6T"
+},
+{
+AirlineName: "Air Ukraine (6U)",
+IATACode: "6U"
+},
+{
+AirlineName: "Mars RK (6V)",
+IATACode: "6V"
+},
+{
+AirlineName: "Saratov Airlines (6W)",
+IATACode: "6W"
+},
+{
+AirlineName: "Smartlynx Airlines (6Y)",
+IATACode: "6Y"
+},
+{
+AirlineName: "Air Next (7A)",
+IATACode: "7A"
+},
+{
+AirlineName: "Fly Blue Crance (PTY) Ltd (7B)",
+IATACode: "7B"
+},
+{
+AirlineName: "Jeju Air (7C)",
+IATACode: "7C"
+},
+{
+AirlineName: "Donbassaero (7D)",
+IATACode: "7D"
+},
+{
+AirlineName: "Sylt Air (7E)",
+IATACode: "7E"
+},
+{
+AirlineName: "First Air (7F)",
+IATACode: "7F"
+},
+{
+AirlineName: "STARFLYER (7G)",
+IATACode: "7G"
+},
+{
+AirlineName: "Ravn Alaska (7H)",
+IATACode: "7H"
+},
+{
+AirlineName: "Insel Air International (7I)",
+IATACode: "7I"
+},
+{
+AirlineName: "TAJIK AIR (7J)",
+IATACode: "7J"
+},
+{
+AirlineName: "Kogalymavia Airlines (7K)",
+IATACode: "7K"
+},
+{
+AirlineName: "Aero Caribbean (7L)",
+IATACode: "7L"
+},
+{
+AirlineName: "Mayair (7M)",
+IATACode: "7M"
+},
+{
+AirlineName: "PAWA Dominicana (7N)",
+IATACode: "7N"
+},
+{
+AirlineName: "Air Panama (7P)",
+IATACode: "7P"
+},
+{
+AirlineName: "Elite Airways (7Q)",
+IATACode: "7Q"
+},
+{
+AirlineName: "RusLine (7R)",
+IATACode: "7R"
+},
+{
+AirlineName: "Arctic Transportation Services (7S)",
+IATACode: "7S"
+},
+{
+AirlineName: "Aviaenegro (7U)",
+IATACode: "7U"
+},
+{
+AirlineName: "Federal Air (7V)",
+IATACode: "7V"
+},
+{
+AirlineName: "Wind Rose Aviation (7W)",
+IATACode: "7W"
+},
+{
+AirlineName: "Med Airways (7Y)",
+IATACode: "7Y"
+},
+{
+AirlineName: "Laker Airways (Bahamas) (7Z)",
+IATACode: "7Z"
+},
+{
+AirlineName: "Atlas Blue (8A)",
+IATACode: "8A"
+},
+{
+AirlineName: "Transnusa Aviation (8B)",
+IATACode: "8B"
+},
+{
+AirlineName: "East Star Airlines (8C)",
+IATACode: "8C"
+},
+{
+AirlineName: "Bering Air (8E)",
+IATACode: "8E"
+},
+{
+AirlineName: "STP Airways (8F)",
+IATACode: "8F"
+},
+{
+AirlineName: "Fly Mid Africa (8G)",
+IATACode: "8G"
+},
+{
+AirlineName: "BHAir (8H)",
+IATACode: "8H"
+},
+{
+AirlineName: "Insel Air Aruba (8I)",
+IATACode: "8I"
+},
+{
+AirlineName: "Jet4You (8J)",
+IATACode: "8J"
+},
+{
+AirlineName: "Angel Airlines (8K)",
+IATACode: "8K"
+},
+{
+AirlineName: "Lucky Air (8L)",
+IATACode: "8L"
+},
+{
+AirlineName: "Myanmar Airways International (8M)",
+IATACode: "8M"
+},
+{
+AirlineName: "Regional Air Service (8N)",
+IATACode: "8N"
+},
+{
+AirlineName: "West Coast Air (8O)",
+IATACode: "8O"
+},
+{
+AirlineName: "Pacific Coastal Airlines (8P)",
+IATACode: "8P"
+},
+{
+AirlineName: "Onur Air (8Q)",
+IATACode: "8Q"
+},
+{
+AirlineName: "Sol Lineas Aereas (8R)",
+IATACode: "8R"
+},
+{
+AirlineName: "Shun Tak-China Travel Ship Mgmt. (8S)",
+IATACode: "8S"
+},
+{
+AirlineName: "Air Tindi (8T)",
+IATACode: "8T"
+},
+{
+AirlineName: "Afriqiyah (8U)",
+IATACode: "8U"
+},
+{
+AirlineName: "Wright Air Service (8V)",
+IATACode: "8V"
+},
+{
+AirlineName: "Privatewings (8W)",
+IATACode: "8W"
+},
+{
+AirlineName: "Air Burundi (8Y)",
+IATACode: "8Y"
+},
+{
+AirlineName: "Accessrail (9B)",
+IATACode: "9B"
+},
+{
+AirlineName: "Spring Airlines (9C)",
+IATACode: "9C"
+},
+{
+AirlineName: "Toumai Air Tchad (9D)",
+IATACode: "9D"
+},
+{
+AirlineName: "Endeavor Air (9E)",
+IATACode: "9E"
+},
+{
+AirlineName: "Eurostar (9F)",
+IATACode: "9F"
+},
+{
+AirlineName: "9G Rail Limited (9G)",
+IATACode: "9G"
+},
+{
+AirlineName: "Changan Airlines Limited Company (9H)",
+IATACode: "9H"
+},
+{
+AirlineName: "Alliance Air (9I)",
+IATACode: "9I"
+},
+{
+AirlineName: "Pacific Island Aviation (9J)",
+IATACode: "9J"
+},
+{
+AirlineName: "Cape Air (9K)",
+IATACode: "9K"
+},
+{
+AirlineName: "AirTanker (9L)",
+IATACode: "9L"
+},
+{
+AirlineName: "Central Mountain Air (9M)",
+IATACode: "9M"
+},
+{
+AirlineName: "Tropic Air (9N)",
+IATACode: "9N"
+},
+{
+AirlineName: "National Airways Cameroon (9O)",
+IATACode: "9O"
+},
+{
+AirlineName: "PB Air Company Limited (9Q)",
+IATACode: "9Q"
+},
+{
+AirlineName: "Phuket Air (9R)",
+IATACode: "9R"
+},
+{
+AirlineName: "Southern Air (9S)",
+IATACode: "9S"
+},
+{
+AirlineName: "Transwest Air Limited (9T)",
+IATACode: "9T"
+},
+{
+AirlineName: "Air Moldova (9U)",
+IATACode: "9U"
+},
+{
+AirlineName: "Avior Airlines (9V)",
+IATACode: "9V"
+},
+{
+AirlineName: "Jet Airways (9W)",
+IATACode: "9W"
+},
+{
+AirlineName: "Southern Airways Express (9X)",
+IATACode: "9X"
+},
+{
+AirlineName: "National Airways (9Y)",
+IATACode: "9Y"
+},
+{
+AirlineName: "L'Avion (A0)",
+IATACode: "A0"
+},
+{
+AirlineName: "Astra Air (A2)",
+IATACode: "A2"
+},
+{
+AirlineName: "Aegean (A3)",
+IATACode: "A3"
+},
+{
+AirlineName: "Southern Winds (A4)",
+IATACode: "A4"
+},
+{
+AirlineName: "Hop! (A5)",
+IATACode: "A5"
+},
+{
+AirlineName: "Air Alps (A6)",
+IATACode: "A6"
+},
+{
+AirlineName: "Calafia Airlines (A7)",
+IATACode: "A7"
+},
+{
+AirlineName: "Aerolink Uganda Limited (A8)",
+IATACode: "A8"
+},
+{
+AirlineName: "Georgian Airways (A9)",
+IATACode: "A9"
+},
+{
+AirlineName: "American Airlines (AA)",
+IATACode: "AA"
+},
+{
+AirlineName: "airberlin (AB)",
+IATACode: "AB"
+},
+{
+AirlineName: "Air Canada (AC)",
+IATACode: "AC"
+},
+{
+AirlineName: "Azul (AD)",
+IATACode: "AD"
+},
+{
+AirlineName: "Mandarin Airlines (AE)",
+IATACode: "AE"
+},
+{
+AirlineName: "Air France (AF)",
+IATACode: "AF"
+},
+{
+AirlineName: "Aruba Airlines (AG)",
+IATACode: "AG"
+},
+{
+AirlineName: "Air Algerie (AH)",
+IATACode: "AH"
+},
+{
+AirlineName: "Air India (AI)",
+IATACode: "AI"
+},
+{
+AirlineName: "Aero Contractors (AJ)",
+IATACode: "AJ"
+},
+{
+AirlineName: "AirAsia (AK)",
+IATACode: "AK"
+},
+{
+AirlineName: "Air Leisure (AL)",
+IATACode: "AL"
+},
+{
+AirlineName: "Aeromexico (AM)",
+IATACode: "AM"
+},
+{
+AirlineName: "Advanced Air (AN)",
+IATACode: "AN"
+},
+{
+AirlineName: "Australian Airlines (AO)",
+IATACode: "AO"
+},
+{
+AirlineName: "Air One (AP)",
+IATACode: "AP"
+},
+{
+AirlineName: "Aloha Airlines (AQ)",
+IATACode: "AQ"
+},
+{
+AirlineName: "Aerolineas Argentinas (AR)",
+IATACode: "AR"
+},
+{
+AirlineName: "Alaska Airlines (AS)",
+IATACode: "AS"
+},
+{
+AirlineName: "Royal Air Maroc (AT)",
+IATACode: "AT"
+},
+{
+AirlineName: "Austral Lineas Aereas (AU)",
+IATACode: "AU"
+},
+{
+AirlineName: "Avianca (AV)",
+IATACode: "AV"
+},
+{
+AirlineName: "Africa World Airlines (AW)",
+IATACode: "AW"
+},
+{
+AirlineName: "Trans States Airlines (AX)",
+IATACode: "AX"
+},
+{
+AirlineName: "Finnair (AY)",
+IATACode: "AY"
+},
+{
+AirlineName: "Alitalia (AZ)",
+IATACode: "AZ"
+},
+{
+AirlineName: "La Compagnie (B0)",
+IATACode: "B0"
+},
+{
+AirlineName: "Belavia (B2)",
+IATACode: "B2"
+},
+{
+AirlineName: "Bellview (B3)",
+IATACode: "B3"
+},
+{
+AirlineName: "Zanair Limited (B4)",
+IATACode: "B4"
+},
+{
+AirlineName: "East African Safari Air Express (B5)",
+IATACode: "B5"
+},
+{
+AirlineName: "JetBlue Airways (B6)",
+IATACode: "B6"
+},
+{
+AirlineName: "Uni Airways (B7)",
+IATACode: "B7"
+},
+{
+AirlineName: "Eritrean Air (B8)",
+IATACode: "B8"
+},
+{
+AirlineName: "Iran Air Tours (B9)",
+IATACode: "B9"
+},
+{
+AirlineName: "British Airways (BA)",
+IATACode: "BA"
+},
+{
+AirlineName: "Seaborne Airlines (BB)",
+IATACode: "BB"
+},
+{
+AirlineName: "Skymark Airlines (BC)",
+IATACode: "BC"
+},
+{
+AirlineName: "Cambodia Bayon Airlines (BD)",
+IATACode: "BD"
+},
+{
+AirlineName: "Flybe (BE)",
+IATACode: "BE"
+},
+{
+AirlineName: "French Blue (BF)",
+IATACode: "BF"
+},
+{
+AirlineName: "Biman Bangladesh (BG)",
+IATACode: "BG"
+},
+{
+AirlineName: "Hawkair (BH)",
+IATACode: "BH"
+},
+{
+AirlineName: "Royal Brunei Airlines (BI)",
+IATACode: "BI"
+},
+{
+AirlineName: "Nouvelair (BJ)",
+IATACode: "BJ"
+},
+{
+AirlineName: "Okay Airways (BK)",
+IATACode: "BK"
+},
+{
+AirlineName: "Jetstar Pacific (BL)",
+IATACode: "BL"
+},
+{
+AirlineName: "British Midland Regional (BM)",
+IATACode: "BM"
+},
+{
+AirlineName: "PT Bouraq Indonesia Airlines (BO)",
+IATACode: "BO"
+},
+{
+AirlineName: "Air Botswana (BP)",
+IATACode: "BP"
+},
+{
+AirlineName: "EVA Airways (BR)",
+IATACode: "BR"
+},
+{
+AirlineName: "British International (BS)",
+IATACode: "BS"
+},
+{
+AirlineName: "Air Baltic (BT)",
+IATACode: "BT"
+},
+{
+AirlineName: "Compagnie Africaine d'Aviation (BU)",
+IATACode: "BU"
+},
+{
+AirlineName: "Blue Panorama (BV)",
+IATACode: "BV"
+},
+{
+AirlineName: "Caribbean Airlines (BW)",
+IATACode: "BW"
+},
+{
+AirlineName: "Air Busan (BX)",
+IATACode: "BX"
+},
+{
+AirlineName: "Thomson Airways (BY)",
+IATACode: "BY"
+},
+{
+AirlineName: "Keystone Air Service (BZ)",
+IATACode: "BZ"
+},
+{
+AirlineName: "Centralwings (C0)",
+IATACode: "C0"
+},
+{
+AirlineName: "Ceiba Intercontinental (C2)",
+IATACode: "C2"
+},
+{
+AirlineName: "Contact Air (C3)",
+IATACode: "C3"
+},
+{
+AirlineName: "Alma (C4)",
+IATACode: "C4"
+},
+{
+AirlineName: "Commutair (C5)",
+IATACode: "C5"
+},
+{
+AirlineName: "CanJet Airlines (C6)",
+IATACode: "C6"
+},
+{
+AirlineName: "Rico Linhas Aereas (C7)",
+IATACode: "C7"
+},
+{
+AirlineName: "Chicago Express Airlines (C8)",
+IATACode: "C8"
+},
+{
+AirlineName: "Skywise Airlines (C9)",
+IATACode: "C9"
+},
+{
+AirlineName: "Air China (CA)",
+IATACode: "CA"
+},
+{
+AirlineName: "ScotAirways (CB)",
+IATACode: "CB"
+},
+{
+AirlineName: "CM Airlines (CC)",
+IATACode: "CC"
+},
+{
+AirlineName: "Corendon Dutch Airlines  (CD)",
+IATACode: "CD"
+},
+{
+AirlineName: "Chalair (CE)",
+IATACode: "CE"
+},
+{
+AirlineName: "City Airline (CF)",
+IATACode: "CF"
+},
+{
+AirlineName: "Airlines of Papua New Guinea (CG)",
+IATACode: "CG"
+},
+{
+AirlineName: "Bemidji Airlines (CH)",
+IATACode: "CH"
+},
+{
+AirlineName: "China Airlines (CI)",
+IATACode: "CI"
+},
+{
+AirlineName: "BA Cityflyer (CJ)",
+IATACode: "CJ"
+},
+{
+AirlineName: "Lufthansa Cityline (CL)",
+IATACode: "CL"
+},
+{
+AirlineName: "Copa (CM)",
+IATACode: "CM"
+},
+{
+AirlineName: "Grand China Air (CN)",
+IATACode: "CN"
+},
+{
+AirlineName: "Cobalt Air (CO)",
+IATACode: "CO"
+},
+{
+AirlineName: "Compass Airlines (CP)",
+IATACode: "CP"
+},
+{
+AirlineName: "Coastal Aviation (CQ)",
+IATACode: "CQ"
+},
+{
+AirlineName: "Continental Micronesia (CS)",
+IATACode: "CS"
+},
+{
+AirlineName: "Air One Cityliner (CT)",
+IATACode: "CT"
+},
+{
+AirlineName: "Cubana Airlines (CU)",
+IATACode: "CU"
+},
+{
+AirlineName: "Air Chathams (CV)",
+IATACode: "CV"
+},
+{
+AirlineName: "Air Marshall Islands (CW)",
+IATACode: "CW"
+},
+{
+AirlineName: "Cathay Pacific (CX)",
+IATACode: "CX"
+},
+{
+AirlineName: "Cyprus Airways (CY)",
+IATACode: "CY"
+},
+{
+AirlineName: "China Southern Airlines (CZ)",
+IATACode: "CZ"
+},
+{
+AirlineName: "Severstal Aircompany (D2)",
+IATACode: "D2"
+},
+{
+AirlineName: "Daallo Airlines (D3)",
+IATACode: "D3"
+},
+{
+AirlineName: "Alidaunia (D4)",
+IATACode: "D4"
+},
+{
+AirlineName: "Inter Air (D6)",
+IATACode: "D6"
+},
+{
+AirlineName: "AirAsiaX (D7)",
+IATACode: "D7"
+},
+{
+AirlineName: "Norwegian Air International Ltd (D8)",
+IATACode: "D8"
+},
+{
+AirlineName: "Donavia (D9)",
+IATACode: "D9"
+},
+{
+AirlineName: "Brit Air (DB)",
+IATACode: "DB"
+},
+{
+AirlineName: "Braathens Regional (DC)",
+IATACode: "DC"
+},
+{
+AirlineName: "Nok Air (DD)",
+IATACode: "DD"
+},
+{
+AirlineName: "Condor (DE)",
+IATACode: "DE"
+},
+{
+AirlineName: "Aerolineas de Baleares AeBal (DF)",
+IATACode: "DF"
+},
+{
+AirlineName: "Cebgo (DG)",
+IATACode: "DG"
+},
+{
+AirlineName: "Independence Air (DH)",
+IATACode: "DH"
+},
+{
+AirlineName: "Norwegian Air UK (DI)",
+IATACode: "DI"
+},
+{
+AirlineName: "AirAsia Japan (DJ)",
+IATACode: "DJ"
+},
+{
+AirlineName: "Thomas Cook Airlines Scandinavia (DK)",
+IATACode: "DK"
+},
+{
+AirlineName: "Delta (DL)",
+IATACode: "DL"
+},
+{
+AirlineName: "Sterling Blue (DM)",
+IATACode: "DM"
+},
+{
+AirlineName: "Senegal Airlines (DN)",
+IATACode: "DN"
+},
+{
+AirlineName: "Air Vallee (DO)",
+IATACode: "DO"
+},
+{
+AirlineName: "Pobeda Airlines (DP)",
+IATACode: "DP"
+},
+{
+AirlineName: "Coastal Air Transport (DQ)",
+IATACode: "DQ"
+},
+{
+AirlineName: "Air Link Pty Ltd (DR)",
+IATACode: "DR"
+},
+{
+AirlineName: "EasyJet Switzerland (DS)",
+IATACode: "DS"
+},
+{
+AirlineName: "TAAG Angola Airlines (DT)",
+IATACode: "DT"
+},
+{
+AirlineName: "Norwegian Long Haul AS (DU)",
+IATACode: "DU"
+},
+{
+AirlineName: "JSC Aircompany SCAT (DV)",
+IATACode: "DV"
+},
+{
+AirlineName: "Aero-Charter (DW)",
+IATACode: "DW"
+},
+{
+AirlineName: "Danish Air Transport (DX)",
+IATACode: "DX"
+},
+{
+AirlineName: "Norwegian Air Shuttle (DY)",
+IATACode: "DY"
+},
+{
+AirlineName: "Transcaraibes Air International (DZ)",
+IATACode: "DZ"
+},
+{
+AirlineName: "Eos Airlines (E0)",
+IATACode: "E0"
+},
+{
+AirlineName: "Eurowings Europe (E2)",
+IATACode: "E2"
+},
+{
+AirlineName: "NewGen Airways (E3)",
+IATACode: "E3"
+},
+{
+AirlineName: "Estelar Latinoamerica C.A. (E4)",
+IATACode: "E4"
+},
+{
+AirlineName: "Air Arabia Egypt (E5)",
+IATACode: "E5"
+},
+{
+AirlineName: "Equaflight Services (E7)",
+IATACode: "E7"
+},
+{
+AirlineName: "Alpieagles (E8)",
+IATACode: "E8"
+},
+{
+AirlineName: "Evelop Airlines (E9)",
+IATACode: "E9"
+},
+{
+AirlineName: "Eastern Airlines (EA)",
+IATACode: "EA"
+},
+{
+AirlineName: "Wamos Air (EB)",
+IATACode: "EB"
+},
+{
+AirlineName: "Openskies (EC)",
+IATACode: "EC"
+},
+{
+AirlineName: "Airblue Limited (ED)",
+IATACode: "ED"
+},
+{
+AirlineName: "Aero Airlines (EE)",
+IATACode: "EE"
+},
+{
+AirlineName: "Strategic Airlines (EF)",
+IATACode: "EF"
+},
+{
+AirlineName: "Ernest Airlines (EG)",
+IATACode: "EG"
+},
+{
+AirlineName: "Air Nippon Network (EH)",
+IATACode: "EH"
+},
+{
+AirlineName: "Aer Lingus (EI)",
+IATACode: "EI"
+},
+{
+AirlineName: "New England Airlines (EJ)",
+IATACode: "EJ"
+},
+{
+AirlineName: "Emirates (EK)",
+IATACode: "EK"
+},
+{
+AirlineName: "Ellinair (EL)",
+IATACode: "EL"
+},
+{
+AirlineName: "Aero Benin (EM)",
+IATACode: "EM"
+},
+{
+AirlineName: "Air Dolomiti (EN)",
+IATACode: "EN"
+},
+{
+AirlineName: "FlyCongo (EO)",
+IATACode: "EO"
+},
+{
+AirlineName: "Iran Aseman Airlines (EP)",
+IATACode: "EP"
+},
+{
+AirlineName: "Tame (EQ)",
+IATACode: "EQ"
+},
+{
+AirlineName: "Serene Air (ER)",
+IATACode: "ER"
+},
+{
+AirlineName: "Ethiopian Airlines (ET)",
+IATACode: "ET"
+},
+{
+AirlineName: "United Eagle (EU)",
+IATACode: "EU"
+},
+{
+AirlineName: "Express Jet (EV)",
+IATACode: "EV"
+},
+{
+AirlineName: "Eurowings (EW)",
+IATACode: "EW"
+},
+{
+AirlineName: "Aerolineas Santo Domingo (EX)",
+IATACode: "EX"
+},
+{
+AirlineName: "Etihad Airways (EY)",
+IATACode: "EY"
+},
+{
+AirlineName: "Sun-Air of Scandinavia (EZ)",
+IATACode: "EZ"
+},
+{
+AirlineName: "Safari Link (F2)",
+IATACode: "F2"
+},
+{
+AirlineName: "Fly First Class (F3)",
+IATACode: "F3"
+},
+{
+AirlineName: "Albarka Air Services (F4)",
+IATACode: "F4"
+},
+{
+AirlineName: "Cosmic Air (F5)",
+IATACode: "F5"
+},
+{
+AirlineName: "First Cambodia Airlines (F6)",
+IATACode: "F6"
+},
+{
+AirlineName: "Etihad Regional (F7)",
+IATACode: "F7"
+},
+{
+AirlineName: "Flair Airlines (F8)",
+IATACode: "F8"
+},
+{
+AirlineName: "Frontier Airlines (F9)",
+IATACode: "F9"
+},
+{
+AirlineName: "FlySafair (FA)",
+IATACode: "FA"
+},
+{
+AirlineName: "Bulgaria Air (FB)",
+IATACode: "FB"
+},
+{
+AirlineName: "Fly Corporate (FC)",
+IATACode: "FC"
+},
+{
+AirlineName: "Thai AirAsia (FD)",
+IATACode: "FD"
+},
+{
+AirlineName: "Far Eastern Air Transport (FE)",
+IATACode: "FE"
+},
+{
+AirlineName: "Airshop B.V. (FF)",
+IATACode: "FF"
+},
+{
+AirlineName: "Ariana Afghan Airlines (FG)",
+IATACode: "FG"
+},
+{
+AirlineName: "Freebird Airlines (FH)",
+IATACode: "FH"
+},
+{
+AirlineName: "Icelandair (FI)",
+IATACode: "FI"
+},
+{
+AirlineName: "Fiji Airways (FJ)",
+IATACode: "FJ"
+},
+{
+AirlineName: "AirTran Airways (FL)",
+IATACode: "FL"
+},
+{
+AirlineName: "Shanghai Airlines (FM)",
+IATACode: "FM"
+},
+{
+AirlineName: "Fastjet (FN)",
+IATACode: "FN"
+},
+{
+AirlineName: "Airlines of Tasmania (FO)",
+IATACode: "FO"
+},
+{
+AirlineName: "Pelican Airlines (FP)",
+IATACode: "FP"
+},
+{
+AirlineName: "Brindabella Airlines (FQ)",
+IATACode: "FQ"
+},
+{
+AirlineName: "Ryanair (FR)",
+IATACode: "FR"
+},
+{
+AirlineName: "Syphax Airlines (FS)",
+IATACode: "FS"
+},
+{
+AirlineName: "Siem Reap Air (FT)",
+IATACode: "FT"
+},
+{
+AirlineName: "Air Littoral (FU)",
+IATACode: "FU"
+},
+{
+AirlineName: "Rossiya Airlines (FV)",
+IATACode: "FV"
+},
+{
+AirlineName: "IBEX Airlines (FW)",
+IATACode: "FW"
+},
+{
+AirlineName: "Firefly (FY)",
+IATACode: "FY"
+},
+{
+AirlineName: "flydubai (FZ)",
+IATACode: "FZ"
+},
+{
+AirlineName: "Ghana International Airlines (G0)",
+IATACode: "G0"
+},
+{
+AirlineName: "XL Airways Germany (G1)",
+IATACode: "G1"
+},
+{
+AirlineName: "Avirex Gabon (G2)",
+IATACode: "G2"
+},
+{
+AirlineName: "GOL Linhas Aereas S.A. (G3)",
+IATACode: "G3"
+},
+{
+AirlineName: "Allegiant Air (G4)",
+IATACode: "G4"
+},
+{
+AirlineName: "China Express (G5)",
+IATACode: "G5"
+},
+{
+AirlineName: "Aura Airlines (G6)",
+IATACode: "G6"
+},
+{
+AirlineName: "Gojet Airlines (G7)",
+IATACode: "G7"
+},
+{
+AirlineName: "GoAir (G8)",
+IATACode: "G8"
+},
+{
+AirlineName: "Air Arabia (G9)",
+IATACode: "G9"
+},
+{
+AirlineName: "Garuda Indonesia (GA)",
+IATACode: "GA"
+},
+{
+AirlineName: "Gambia International Airlines (GC)",
+IATACode: "GC"
+},
+{
+AirlineName: "Air Alpha Greenland (GD)",
+IATACode: "GD"
+},
+{
+AirlineName: "TransAsia Airways (GE)",
+IATACode: "GE"
+},
+{
+AirlineName: "Gulf Air (GF)",
+IATACode: "GF"
+},
+{
+AirlineName: "Air Comores (GG)",
+IATACode: "GG"
+},
+{
+AirlineName: "Globus LLC (GH)",
+IATACode: "GH"
+},
+{
+AirlineName: "ITEK-AIR (GI)",
+IATACode: "GI"
+},
+{
+AirlineName: "Zhejiang Loong Airlines (GJ)",
+IATACode: "GJ"
+},
+{
+AirlineName: "Jetstar Japan (GK)",
+IATACode: "GK"
+},
+{
+AirlineName: "Air Greenland (GL)",
+IATACode: "GL"
+},
+{
+AirlineName: "Germania Flug AG (GM)",
+IATACode: "GM"
+},
+{
+AirlineName: "Air Gabon (GN)",
+IATACode: "GN"
+},
+{
+AirlineName: "APG Airlines (GP)",
+IATACode: "GP"
+},
+{
+AirlineName: "Sky Express (GQ)",
+IATACode: "GQ"
+},
+{
+AirlineName: "Aurigny Air Services (GR)",
+IATACode: "GR"
+},
+{
+AirlineName: "Tianjin Airlines (GS)",
+IATACode: "GS"
+},
+{
+AirlineName: "Air Guilin Co. Ltd. (GT)",
+IATACode: "GT"
+},
+{
+AirlineName: "Aviateca (GU)",
+IATACode: "GU"
+},
+{
+AirlineName: "Aero Flight (GV)",
+IATACode: "GV"
+},
+{
+AirlineName: "SkyGreece (GW)",
+IATACode: "GW"
+},
+{
+AirlineName: "Jetx Limited (GX)",
+IATACode: "GX"
+},
+{
+AirlineName: "Colorful Guizhou Airlines (GY)",
+IATACode: "GY"
+},
+{
+AirlineName: "Air Rarotonga (GZ)",
+IATACode: "GZ"
+},
+{
+AirlineName: "Hahn Air Systems (H1)",
+IATACode: "H1"
+},
+{
+AirlineName: "Sky Airlines (H2)",
+IATACode: "H2"
+},
+{
+AirlineName: "Harbour Air Seaplanes (H3)",
+IATACode: "H3"
+},
+{
+AirlineName: "Aero4m (H4)",
+IATACode: "H4"
+},
+{
+AirlineName: "Thomas Cook Airlines Balearics S.L. (H5)",
+IATACode: "H5"
+},
+{
+AirlineName: "Hageland Aviation Services (H6)",
+IATACode: "H6"
+},
+{
+AirlineName: "Taron-Avia (H7)",
+IATACode: "H7"
+},
+{
+AirlineName: "Dalavia - Far East Airways Khabarovsk (H8)",
+IATACode: "H8"
+},
+{
+AirlineName: "Himalaya Airlines (H9)",
+IATACode: "H9"
+},
+{
+AirlineName: "Hawaiian Airlines (HA)",
+IATACode: "HA"
+},
+{
+AirlineName: "Homer Air (HB)",
+IATACode: "HB"
+},
+{
+AirlineName: "Aero-Tropics Air Service (HC)",
+IATACode: "HC"
+},
+{
+AirlineName: "AIR DO (HD)",
+IATACode: "HD"
+},
+{
+AirlineName: "LGW-Luftfahrtgesellschaft Walter (HE)",
+IATACode: "HE"
+},
+{
+AirlineName: "Air Côte d'Ivoire (HF)",
+IATACode: "HF"
+},
+{
+AirlineName: "Niki (HG)",
+IATACode: "HG"
+},
+{
+AirlineName: "Papillon Airways (HI)",
+IATACode: "HI"
+},
+{
+AirlineName: "Hellas Jet (HJ)",
+IATACode: "HJ"
+},
+{
+AirlineName: "Hamburg Airways (HK)",
+IATACode: "HK"
+},
+{
+AirlineName: "Air Seychelles (HM)",
+IATACode: "HM"
+},
+{
+AirlineName: "Proteus Helicopter (HN)",
+IATACode: "HN"
+},
+{
+AirlineName: "Juneyao Airlines (HO)",
+IATACode: "HO"
+},
+{
+AirlineName: "America West (HP)",
+IATACode: "HP"
+},
+{
+AirlineName: "Thomas Cook Airlines Belgium (HQ)",
+IATACode: "HQ"
+},
+{
+AirlineName: "Hahn Air (HR)",
+IATACode: "HR"
+},
+{
+AirlineName: "Heli Securite (HS)",
+IATACode: "HS"
+},
+{
+AirlineName: "Hellenic Imperial Airways (HT)",
+IATACode: "HT"
+},
+{
+AirlineName: "Hainan Airlines (HU)",
+IATACode: "HU"
+},
+{
+AirlineName: "Transavia (HV)",
+IATACode: "HV"
+},
+{
+AirlineName: "North Wright Air (HW)",
+IATACode: "HW"
+},
+{
+AirlineName: "Hong Kong Airlines (HX)",
+IATACode: "HX"
+},
+{
+AirlineName: "Uzbekistan Airways (HY)",
+IATACode: "HY"
+},
+{
+AirlineName: "Aurora Airlines (HZ)",
+IATACode: "HZ"
+},
+{
+AirlineName: "Iberia Express (I2)",
+IATACode: "I2"
+},
+{
+AirlineName: "Ivoirienne De Transport (I3)",
+IATACode: "I3"
+},
+{
+AirlineName: "AirLink (I4)",
+IATACode: "I4"
+},
+{
+AirlineName: "AirAsia India (I5)",
+IATACode: "I5"
+},
+{
+AirlineName: "Mexicana Link (I6)",
+IATACode: "I6"
+},
+{
+AirlineName: "Paramount Airways (I7)",
+IATACode: "I7"
+},
+{
+AirlineName: "Indonesia Air Transport (I8)",
+IATACode: "I8"
+},
+{
+AirlineName: "Iraqi Airways (IA)",
+IATACode: "IA"
+},
+{
+AirlineName: "Iberia (IB)",
+IATACode: "IB"
+},
+{
+AirlineName: "Indian Airlines (IC)",
+IATACode: "IC"
+},
+{
+AirlineName: "Batik Air Indonesia (ID)",
+IATACode: "ID"
+},
+{
+AirlineName: "Solomon Airlines (IE)",
+IATACode: "IE"
+},
+{
+AirlineName: "Islas Airways (IF)",
+IATACode: "IF"
+},
+{
+AirlineName: "Air Italy (IG)",
+IATACode: "IG"
+},
+{
+AirlineName: "Falcon Air (IH)",
+IATACode: "IH"
+},
+{
+AirlineName: "Spring Airlines Japan (IJ)",
+IATACode: "IJ"
+},
+{
+AirlineName: "IMAIR Airline (IK)",
+IATACode: "IK"
+},
+{
+AirlineName: "LankAir Private Limited (IL)",
+IATACode: "IL"
+},
+{
+AirlineName: "JSC Aircompany ATMA (IM)",
+IATACode: "IM"
+},
+{
+AirlineName: "MAT-Macedonian Airlines (IN)",
+IATACode: "IN"
+},
+{
+AirlineName: "Intercontinental Pacific (IO)",
+IATACode: "IO"
+},
+{
+AirlineName: "Atyrau Aue Joly (IP)",
+IATACode: "IP"
+},
+{
+AirlineName: "Augsburg Airways (IQ)",
+IATACode: "IQ"
+},
+{
+AirlineName: "Iran Air (IR)",
+IATACode: "IR"
+},
+{
+AirlineName: "Island Airlines (IS)",
+IATACode: "IS"
+},
+{
+AirlineName: "Tigerair Taiwan (IT)",
+IATACode: "IT"
+},
+{
+AirlineName: "VVB Aviation Malta (IV)",
+IATACode: "IV"
+},
+{
+AirlineName: "Wings Air (IW)",
+IATACode: "IW"
+},
+{
+AirlineName: "Air India Express (IX)",
+IATACode: "IX"
+},
+{
+AirlineName: "Yemenia Yemen Airways (IY)",
+IATACode: "IY"
+},
+{
+AirlineName: "Arkia-Israeli Airlines (IZ)",
+IATACode: "IZ"
+},
+{
+AirlineName: "Jet Link Express (J0)",
+IATACode: "J0"
+},
+{
+AirlineName: "OneJet (J1)",
+IATACode: "J1"
+},
+{
+AirlineName: "Azerbaijan Airlines (J2)",
+IATACode: "J2"
+},
+{
+AirlineName: "Northwestern (J3)",
+IATACode: "J3"
+},
+{
+AirlineName: "Badr Airlines (J4)",
+IATACode: "J4"
+},
+{
+AirlineName: "Alaska Seaplanes (J5)",
+IATACode: "J5"
+},
+{
+AirlineName: "AVCOM (J6)",
+IATACode: "J6"
+},
+{
+AirlineName: "Afrijet Business Service (J7)",
+IATACode: "J7"
+},
+{
+AirlineName: "Berjaya Air (J8)",
+IATACode: "J8"
+},
+{
+AirlineName: "B & H Airlines (JA)",
+IATACode: "JA"
+},
+{
+AirlineName: "Helijet (JB)",
+IATACode: "JB"
+},
+{
+AirlineName: "Japan Air Commuter (JC)",
+IATACode: "JC"
+},
+{
+AirlineName: "Beijing Capital Airlines (JD)",
+IATACode: "JD"
+},
+{
+AirlineName: "Mango (JE)",
+IATACode: "JE"
+},
+{
+AirlineName: "Jet Asia Airways (JF)",
+IATACode: "JF"
+},
+{
+AirlineName: "JETGO Australia (JG)",
+IATACode: "JG"
+},
+{
+AirlineName: "Fuji Dream Airlines (JH)",
+IATACode: "JH"
+},
+{
+AirlineName: "Eastern Caribbean Air (JI)",
+IATACode: "JI"
+},
+{
+AirlineName: "LATAM Airlines Brasil (JJ)",
+IATACode: "JJ"
+},
+{
+AirlineName: "Aerolinea Del Caribe S.A."
+},
+{
+AirlineName: "dba Aercaribe S.A. (JK)",
+IATACode: "JK"
+},
+{
+AirlineName: "Japan Airlines (JL)",
+IATACode: "JL"
+},
+{
+AirlineName: "Joon (JN)",
+IATACode: "JN"
+},
+{
+AirlineName: "Jet Time (JO)",
+IATACode: "JO"
+},
+{
+AirlineName: "Adria Airways (JP)",
+IATACode: "JP"
+},
+{
+AirlineName: "Jetstar (JQ)",
+IATACode: "JQ"
+},
+{
+AirlineName: "Aero California (JR)",
+IATACode: "JR"
+},
+{
+AirlineName: "Air Koryo (JS)",
+IATACode: "JS"
+},
+{
+AirlineName: "Lion Air (JT)",
+IATACode: "JT"
+},
+{
+AirlineName: "Air Serbia (JU)",
+IATACode: "JU"
+},
+{
+AirlineName: "Bearskin Airlines (JV)",
+IATACode: "JV"
+},
+{
+AirlineName: "Vanilla Air (JW)",
+IATACode: "JW"
+},
+{
+AirlineName: "Nice Helicopters (JX)",
+IATACode: "JX"
+},
+{
+AirlineName: "interCaribbean Airways (JY)",
+IATACode: "JY"
+},
+{
+AirlineName: "Skyways (JZ)",
+IATACode: "JZ"
+},
+{
+AirlineName: "EuroLot (K2)",
+IATACode: "K2"
+},
+{
+AirlineName: "Taquan Air Services (K3)",
+IATACode: "K3"
+},
+{
+AirlineName: "Silverstone Air Services (K5)",
+IATACode: "K5"
+},
+{
+AirlineName: "Cambodia Angkor Air (K6)",
+IATACode: "K6"
+},
+{
+AirlineName: "Air KBZ (K7)",
+IATACode: "K7"
+},
+{
+AirlineName: "Zambia Skyway (K8)",
+IATACode: "K8"
+},
+{
+AirlineName: "Skyward Aviation (K9)",
+IATACode: "K9"
+},
+{
+AirlineName: "Cathay Dragon (KA)",
+IATACode: "KA"
+},
+{
+AirlineName: "Druk Air Corporation (KB)",
+IATACode: "KB"
+},
+{
+AirlineName: "Air Astana (KC)",
+IATACode: "KC"
+},
+{
+AirlineName: "KD avia (KD)",
+IATACode: "KD"
+},
+{
+AirlineName: "Korean Air (KE)",
+IATACode: "KE"
+},
+{
+AirlineName: "Blue 1 (KF)",
+IATACode: "KF"
+},
+{
+AirlineName: "Aerogaviota S.A. (KG)",
+IATACode: "KG"
+},
+{
+AirlineName: "Kyrgyz Airways (KH)",
+IATACode: "KH"
+},
+{
+AirlineName: "Adam Skyconnection Airlines (KI)",
+IATACode: "KI"
+},
+{
+AirlineName: "British Mediterranean Airways (KJ)",
+IATACode: "KJ"
+},
+{
+AirlineName: "AtlasGlobal (KK)",
+IATACode: "KK"
+},
+{
+AirlineName: "KLM (KL)",
+IATACode: "KL"
+},
+{
+AirlineName: "Air Malta (KM)",
+IATACode: "KM"
+},
+{
+AirlineName: "China United Airlines (KN)",
+IATACode: "KN"
+},
+{
+AirlineName: "Aircompany Khors (KO)",
+IATACode: "KO"
+},
+{
+AirlineName: "ASKY (KP)",
+IATACode: "KP"
+},
+{
+AirlineName: "Kenya Airways (KQ)",
+IATACode: "KQ"
+},
+{
+AirlineName: "Air Bishkek (KR)",
+IATACode: "KR"
+},
+{
+AirlineName: "PenAir (KS)",
+IATACode: "KS"
+},
+{
+AirlineName: "Katmai Air (KT)",
+IATACode: "KT"
+},
+{
+AirlineName: "Kuwait Airways (KU)",
+IATACode: "KU"
+},
+{
+AirlineName: "Aircompany Asian Express Airline (KV)",
+IATACode: "KV"
+},
+{
+AirlineName: "Kharkiv Airlines (KW)",
+IATACode: "KW"
+},
+{
+AirlineName: "Cayman Airways (KX)",
+IATACode: "KX"
+},
+{
+AirlineName: "Linhas Aereas de Sao Tome e Principe (KY)",
+IATACode: "KY"
+},
+{
+AirlineName: "LTU Billa Lufttransport Unternehmen (L3)",
+IATACode: "L3"
+},
+{
+AirlineName: "Legacy Air Co. (L4)",
+IATACode: "L4"
+},
+{
+AirlineName: "Lufttransport (L5)",
+IATACode: "L5"
+},
+{
+AirlineName: "Mauritanian Airlines INT (L6)",
+IATACode: "L6"
+},
+{
+AirlineName: "Lugansk Airlines (L7)",
+IATACode: "L7"
+},
+{
+AirlineName: "Afric Aviation (L8)",
+IATACode: "L8"
+},
+{
+AirlineName: "belleair europe (L9)",
+IATACode: "L9"
+},
+{
+AirlineName: "LATAM Airlines Group (LA)",
+IATACode: "LA"
+},
+{
+AirlineName: "Lloyd Aereo Boliviano (LB)",
+IATACode: "LB"
+},
+{
+AirlineName: "Equatorial Congo Airlines (LC)",
+IATACode: "LC"
+},
+{
+AirlineName: "Contour Airlines (LF)",
+IATACode: "LF"
+},
+{
+AirlineName: "Luxair (LG)",
+IATACode: "LG"
+},
+{
+AirlineName: "Lufthansa (LH)",
+IATACode: "LH"
+},
+{
+AirlineName: "Liat (LI)",
+IATACode: "LI"
+},
+{
+AirlineName: "JIN AIR (LJ)",
+IATACode: "LJ"
+},
+{
+AirlineName: "Air Luxor (LK)",
+IATACode: "LK"
+},
+{
+AirlineName: "Loganair (LM)",
+IATACode: "LM"
+},
+{
+AirlineName: "Libyan Airlines (LN)",
+IATACode: "LN"
+},
+{
+AirlineName: "LOT-Polish Airlines (LO)",
+IATACode: "LO"
+},
+{
+AirlineName: "LATAM Airlines Peru (LP)",
+IATACode: "LP"
+},
+{
+AirlineName: "Lanmei Airlines (LQ)",
+IATACode: "LQ"
+},
+{
+AirlineName: "LACSA (LR)",
+IATACode: "LR"
+},
+{
+AirlineName: "Jet2 (LS)",
+IATACode: "LS"
+},
+{
+AirlineName: "Air Lituanica (LT)",
+IATACode: "LT"
+},
+{
+AirlineName: "LATAM Airlines Chile (LU)",
+IATACode: "LU"
+},
+{
+AirlineName: "Mega Maldives (LV)",
+IATACode: "LV"
+},
+{
+AirlineName: "Latin American Wings (LW)",
+IATACode: "LW"
+},
+{
+AirlineName: "Swiss International Air Lines (LX)",
+IATACode: "LX"
+},
+{
+AirlineName: "EL AL Israel Airlines (LY)",
+IATACode: "LY"
+},
+{
+AirlineName: "Swiss Global Air Lines AG (LZ)",
+IATACode: "LZ"
+},
+{
+AirlineName: "Aero Mongolia (M0)",
+IATACode: "M0"
+},
+{
+AirlineName: "Mahfooz Aviation (M2)",
+IATACode: "M2"
+},
+{
+AirlineName: "Northflying (M3)",
+IATACode: "M3"
+},
+{
+AirlineName: "Mistral Air (M4)",
+IATACode: "M4"
+},
+{
+AirlineName: "Kenmore Air (M5)",
+IATACode: "M5"
+},
+{
+AirlineName: "Marsland Aviation (M7)",
+IATACode: "M7"
+},
+{
+AirlineName: "Motor-Sich JSC (M9)",
+IATACode: "M9"
+},
+{
+AirlineName: "Malev Hungarian Airlines (MA)",
+IATACode: "MA"
+},
+{
+AirlineName: "MNG Airlines (MB)",
+IATACode: "MB"
+},
+{
+AirlineName: "Air Madagascar (MD)",
+IATACode: "MD"
+},
+{
+AirlineName: "Middle East Airlines (ME)",
+IATACode: "ME"
+},
+{
+AirlineName: "Xiamen Airlines (MF)",
+IATACode: "MF"
+},
+{
+AirlineName: "Champion Air (MG)",
+IATACode: "MG"
+},
+{
+AirlineName: "Malaysia Airlines (MH)",
+IATACode: "MH"
+},
+{
+AirlineName: "SilkAir (MI)",
+IATACode: "MI"
+},
+{
+AirlineName: "Mihin Lanka (MJ)",
+IATACode: "MJ"
+},
+{
+AirlineName: "Air Mauritius (MK)",
+IATACode: "MK"
+},
+{
+AirlineName: "Air Mediterranée (ML)",
+IATACode: "ML"
+},
+{
+AirlineName: "Peach (MM)",
+IATACode: "MM"
+},
+{
+AirlineName: "COMAIR LTD. (MN)",
+IATACode: "MN"
+},
+{
+AirlineName: "Calm Air International (MO)",
+IATACode: "MO"
+},
+{
+AirlineName: "Martinair Holland (MP)",
+IATACode: "MP"
+},
+{
+AirlineName: "American Eagle (MQ)",
+IATACode: "MQ"
+},
+{
+AirlineName: "Hunnu Air (MR)",
+IATACode: "MR"
+},
+{
+AirlineName: "Egyptair (MS)",
+IATACode: "MS"
+},
+{
+AirlineName: "Thomas Cook Airlines (MT)",
+IATACode: "MT"
+},
+{
+AirlineName: "China Eastern Airlines (MU)",
+IATACode: "MU"
+},
+{
+AirlineName: "Air Mediterranean (MV)",
+IATACode: "MV"
+},
+{
+AirlineName: "Mokulele Airlines (MW)",
+IATACode: "MW"
+},
+{
+AirlineName: "Mexicana (MX)",
+IATACode: "MX"
+},
+{
+AirlineName: "Amakusa Airlines (MZ)",
+IATACode: "MZ"
+},
+{
+AirlineName: "Kabo Air (N2)",
+IATACode: "N2"
+},
+{
+AirlineName: "Omskavia (N3)",
+IATACode: "N3"
+},
+{
+AirlineName: "Nord Wind (N4)",
+IATACode: "N4"
+},
+{
+AirlineName: "Nolinor Aviation (N5)",
+IATACode: "N5"
+},
+{
+AirlineName: "Air One Nine (N6)",
+IATACode: "N6"
+},
+{
+AirlineName: "Nordic Regional Airlines (N7)",
+IATACode: "N7"
+},
+{
+AirlineName: "CR Airways (N8)",
+IATACode: "N8"
+},
+{
+AirlineName: "Nordic Solutions (N9)",
+IATACode: "N9"
+},
+{
+AirlineName: "North American Airlines (NA)",
+IATACode: "NA"
+},
+{
+AirlineName: "STERLING (NB)",
+IATACode: "NB"
+},
+{
+AirlineName: "National Jet Systems (NC)",
+IATACode: "NC"
+},
+{
+AirlineName: "Fmi Air (ND)",
+IATACode: "ND"
+},
+{
+AirlineName: "Nesma Airlines (NE)",
+IATACode: "NE"
+},
+{
+AirlineName: "Air Vanuatu (NF)",
+IATACode: "NF"
+},
+{
+AirlineName: "Lauda Air (NG)",
+IATACode: "NG"
+},
+{
+AirlineName: "All Nippon Airways (NH)",
+IATACode: "NH"
+},
+{
+AirlineName: "Portugalia (NI)",
+IATACode: "NI"
+},
+{
+AirlineName: "Spirit Airlines (NK)",
+IATACode: "NK"
+},
+{
+AirlineName: "Shaheen Air International (NL)",
+IATACode: "NL"
+},
+{
+AirlineName: "CityWing (NM)",
+IATACode: "NM"
+},
+{
+AirlineName: "VIM Airlines (NN)",
+IATACode: "NN"
+},
+{
+AirlineName: "Neos S.P.A. (NO)",
+IATACode: "NO"
+},
+{
+AirlineName: "Nile Air (NP)",
+IATACode: "NP"
+},
+{
+AirlineName: "Air Japan Company (NQ)",
+IATACode: "NQ"
+},
+{
+AirlineName: "Pamir Air (NR)",
+IATACode: "NR"
+},
+{
+AirlineName: "Caucasus Airlines (NS)",
+IATACode: "NS"
+},
+{
+AirlineName: "Binter Canarias (NT)",
+IATACode: "NT"
+},
+{
+AirlineName: "Japan Transocean Air (NU)",
+IATACode: "NU"
+},
+{
+AirlineName: "Air Central (NV)",
+IATACode: "NV"
+},
+{
+AirlineName: "Northwest (NW)",
+IATACode: "NW"
+},
+{
+AirlineName: "Air Macau Company (NX)",
+IATACode: "NX"
+},
+{
+AirlineName: "Air Iceland Connect (NY)",
+IATACode: "NY"
+},
+{
+AirlineName: "Air New Zealand (NZ)",
+IATACode: "NZ"
+},
+{
+AirlineName: "Air Dialog/Linear Air (O2)",
+IATACode: "O2"
+},
+{
+AirlineName: "Orange Air (O3)",
+IATACode: "O3"
+},
+{
+AirlineName: "Antrak Air (O4)",
+IATACode: "O4"
+},
+{
+AirlineName: "Comores Aviation (O5)",
+IATACode: "O5"
+},
+{
+AirlineName: "Avianca Brasil (O6)",
+IATACode: "O6"
+},
+{
+AirlineName: "Ozjet Airlines (O7)",
+IATACode: "O7"
+},
+{
+AirlineName: "Siam Air Transport (O8)",
+IATACode: "O8"
+},
+{
+AirlineName: "Olympic (OA)",
+IATACode: "OA"
+},
+{
+AirlineName: "Boliviana De Aviacion (OB)",
+IATACode: "OB"
+},
+{
+AirlineName: "Oriental Air Bridge (OC)",
+IATACode: "OC"
+},
+{
+AirlineName: "Malindo Airways (OD)",
+IATACode: "OD"
+},
+{
+AirlineName: "Laudamotion (OE)",
+IATACode: "OE"
+},
+{
+AirlineName: "Overland Airways (OF)",
+IATACode: "OF"
+},
+{
+AirlineName: "PSA Airlines (OH)",
+IATACode: "OH"
+},
+{
+AirlineName: "Aspiring Air Limited (OI)",
+IATACode: "OI"
+},
+{
+AirlineName: "Fly Jamaica Airways (OJ)",
+IATACode: "OJ"
+},
+{
+AirlineName: "Czech Airlines (OK)",
+IATACode: "OK"
+},
+{
+AirlineName: "OLT-Ostfriesische Lufttransport (OL)",
+IATACode: "OL"
+},
+{
+AirlineName: "MIAT-Mongolian Airlines (OM)",
+IATACode: "OM"
+},
+{
+AirlineName: "Nauru Airlines (ON)",
+IATACode: "ON"
+},
+{
+AirlineName: "Skywest Air (OO)",
+IATACode: "OO"
+},
+{
+AirlineName: "Olympic Air (OP)",
+IATACode: "OP"
+},
+{
+AirlineName: "Chongqing Airlines (OQ)",
+IATACode: "OQ"
+},
+{
+AirlineName: "TUIfly Netherlands (OR)",
+IATACode: "OR"
+},
+{
+AirlineName: "Austrian Airlines (OS)",
+IATACode: "OS"
+},
+{
+AirlineName: "Aeropelican Air Services (OT)",
+IATACode: "OT"
+},
+{
+AirlineName: "Croatia Airlines (OU)",
+IATACode: "OU"
+},
+{
+AirlineName: "Estonian Air (OV)",
+IATACode: "OV"
+},
+{
+AirlineName: "Skyward Express (OW)",
+IATACode: "OW"
+},
+{
+AirlineName: "Orient Thai Express (OX)",
+IATACode: "OX"
+},
+{
+AirlineName: "Andes Lineas Aereas (OY)",
+IATACode: "OY"
+},
+{
+AirlineName: "Asiana Airlines (OZ)",
+IATACode: "OZ"
+},
+{
+AirlineName: "Proflight Zambia (P0)",
+IATACode: "P0"
+},
+{
+AirlineName: "Regional Sky (P1)",
+IATACode: "P1"
+},
+{
+AirlineName: "Airkenya (P2)",
+IATACode: "P2"
+},
+{
+AirlineName: "Passaredo Transportes Aereos (P3)",
+IATACode: "P3"
+},
+{
+AirlineName: "AeroRepublica (P5)",
+IATACode: "P5"
+},
+{
+AirlineName: "Pascan Aviation (P6)",
+IATACode: "P6"
+},
+{
+AirlineName: "Russian Sky Airlines (P7)",
+IATACode: "P7"
+},
+{
+AirlineName: "Pantanal Linhas Aereas Sul (P8)",
+IATACode: "P8"
+},
+{
+AirlineName: "Peruvian Airlines (P9)",
+IATACode: "P9"
+},
+{
+AirlineName: "PAL Airlines (PB)",
+IATACode: "PB"
+},
+{
+AirlineName: "Pegasus Airlines (PC)",
+IATACode: "PC"
+},
+{
+AirlineName: "Porter Airlines (PD)",
+IATACode: "PD"
+},
+{
+AirlineName: "Peoples Viennaline (PE)",
+IATACode: "PE"
+},
+{
+AirlineName: "Primera Air (PF)",
+IATACode: "PF"
+},
+{
+AirlineName: "Bangkok Airways (PG)",
+IATACode: "PG"
+},
+{
+AirlineName: "Transavia Denmark ApS (PH)",
+IATACode: "PH"
+},
+{
+AirlineName: "Sol del Paraguay (PI)",
+IATACode: "PI"
+},
+{
+AirlineName: "Air St. Pierre (PJ)",
+IATACode: "PJ"
+},
+{
+AirlineName: "Pakistan International Airlines (PK)",
+IATACode: "PK"
+},
+{
+AirlineName: "Southern Air Charter (PL)",
+IATACode: "PL"
+},
+{
+AirlineName: "Canary Fly (PM)",
+IATACode: "PM"
+},
+{
+AirlineName: "China West Airlines (PN)",
+IATACode: "PN"
+},
+{
+AirlineName: "Jet Aviation Business Jets (PP)",
+IATACode: "PP"
+},
+{
+AirlineName: "Philippines AirAsia (PQ)",
+IATACode: "PQ"
+},
+{
+AirlineName: "Philippine Airlines (PR)",
+IATACode: "PR"
+},
+{
+AirlineName: "Ukraine International Airlines (PS)",
+IATACode: "PS"
+},
+{
+AirlineName: "Piedmont Airlines (PT)",
+IATACode: "PT"
+},
+{
+AirlineName: "Plus Ultra Lineas Aereas S. A. (PU)",
+IATACode: "PU"
+},
+{
+AirlineName: "Privatair (PV)",
+IATACode: "PV"
+},
+{
+AirlineName: "PrecisionAir (PW)",
+IATACode: "PW"
+},
+{
+AirlineName: "Air Niugini (PX)",
+IATACode: "PX"
+},
+{
+AirlineName: "Surinam Airways (PY)",
+IATACode: "PY"
+},
+{
+AirlineName: "LATAM Airlines Paraguay (PZ)",
+IATACode: "PZ"
+},
+{
+AirlineName: "Quebecair Express (Q0)",
+IATACode: "Q0"
+},
+{
+AirlineName: "Island Aviation Services (Q2)",
+IATACode: "Q2"
+},
+{
+AirlineName: "Zambian Airways (Q3)",
+IATACode: "Q3"
+},
+{
+AirlineName: "Swazi Express Airways (Q4)",
+IATACode: "Q4"
+},
+{
+AirlineName: "40-Mile Air (Q5)",
+IATACode: "Q5"
+},
+{
+AirlineName: "Volaris Costa Rica (Q6)",
+IATACode: "Q6"
+},
+{
+AirlineName: "Sobelair (Q7)",
+IATACode: "Q7"
+},
+{
+AirlineName: "Trans Air Congo (Q8)",
+IATACode: "Q8"
+},
+{
+AirlineName: "Air Liaison (Q9)",
+IATACode: "Q9"
+},
+{
+AirlineName: "Cimber (QA)",
+IATACode: "QA"
+},
+{
+AirlineName: "Georgian National Airlines (QB)",
+IATACode: "QB"
+},
+{
+AirlineName: "Camair-CO (QC)",
+IATACode: "QC"
+},
+{
+AirlineName: "JC Cambodia Intl Airlines (QD)",
+IATACode: "QD"
+},
+{
+AirlineName: "CrossAir (QE)",
+IATACode: "QE"
+},
+{
+AirlineName: "Qantas Airways (QF)",
+IATACode: "QF"
+},
+{
+AirlineName: "Citilink (QG)",
+IATACode: "QG"
+},
+{
+AirlineName: "AIR KYRGYZSTAN (QH)",
+IATACode: "QH"
+},
+{
+AirlineName: "Cimber Sterling (QI)",
+IATACode: "QI"
+},
+{
+AirlineName: "Air Canada Jazz (QK)",
+IATACode: "QK"
+},
+{
+AirlineName: "Aero Lanka (QL)",
+IATACode: "QL"
+},
+{
+AirlineName: "Air Malawi (QM)",
+IATACode: "QM"
+},
+{
+AirlineName: "Air Armenia (QN)",
+IATACode: "QN"
+},
+{
+AirlineName: "Quantum Air (QO)",
+IATACode: "QO"
+},
+{
+AirlineName: "Airkenya Aviation dba Regional Air (QP)",
+IATACode: "QP"
+},
+{
+AirlineName: "Alliance Airlines (QQ)",
+IATACode: "QQ"
+},
+{
+AirlineName: "Qatar Airways (QR)",
+IATACode: "QR"
+},
+{
+AirlineName: "Smart Wings (QS)",
+IATACode: "QS"
+},
+{
+AirlineName: "Regional Pacific Airlines (QT)",
+IATACode: "QT"
+},
+{
+AirlineName: "UTair Ukraine (QU)",
+IATACode: "QU"
+},
+{
+AirlineName: "Lao Airlines (QV)",
+IATACode: "QV"
+},
+{
+AirlineName: "Qingdao Airlines (QW)",
+IATACode: "QW"
+},
+{
+AirlineName: "Horizon Air (QX)",
+IATACode: "QX"
+},
+{
+AirlineName: "Indonesia AirAsia (QZ)",
+IATACode: "QZ"
+},
+{
+AirlineName: "Royal Airlines Limited (R0)",
+IATACode: "R0"
+},
+{
+AirlineName: "Orenair (R2)",
+IATACode: "R2"
+},
+{
+AirlineName: "Yakutia Airlines (R3)",
+IATACode: "R3"
+},
+{
+AirlineName: "State Transport Company of Russia (R4)",
+IATACode: "R4"
+},
+{
+AirlineName: "Jordan Air (R5)",
+IATACode: "R5"
+},
+{
+AirlineName: "DOT LT (R6)",
+IATACode: "R6"
+},
+{
+AirlineName: "Aserca Airlines (R7)",
+IATACode: "R7"
+},
+{
+AirlineName: "Kyrghyzstan Airlines (R8)",
+IATACode: "R8"
+},
+{
+AirlineName: "Camai Air (R9)",
+IATACode: "R9"
+},
+{
+AirlineName: "Nepal Airlines (RA)",
+IATACode: "RA"
+},
+{
+AirlineName: "Syrian Arab Airlines (RB)",
+IATACode: "RB"
+},
+{
+AirlineName: "Atlantic Airways (RC)",
+IATACode: "RC"
+},
+{
+AirlineName: "Ryan International (RD)",
+IATACode: "RD"
+},
+{
+AirlineName: "Stobart Air (RE)",
+IATACode: "RE"
+},
+{
+AirlineName: "Rotana Jet Aviation (RG)",
+IATACode: "RG"
+},
+{
+AirlineName: "Robinhood Aviation (RH)",
+IATACode: "RH"
+},
+{
+AirlineName: "Royal Jordanian (RJ)",
+IATACode: "RJ"
+},
+{
+AirlineName: "Royal Khmer Airlines (RK)",
+IATACode: "RK"
+},
+{
+AirlineName: "Royal Falcon Airlines (RL)",
+IATACode: "RL"
+},
+{
+AirlineName: "Aircompany Armenia (RM)",
+IATACode: "RM"
+},
+{
+AirlineName: "Rayani Air (RN)",
+IATACode: "RN"
+},
+{
+AirlineName: "Tarom-Romanian Air Transport (RO)",
+IATACode: "RO"
+},
+{
+AirlineName: "Chautauqua Airlines (RP)",
+IATACode: "RP"
+},
+{
+AirlineName: "Kam Air (RQ)",
+IATACode: "RQ"
+},
+{
+AirlineName: "Air Seoul",
+IATACode: " Inc. (RS)"
+},
+{
+AirlineName: "RAK Airways (RT)",
+IATACode: "RT"
+},
+{
+AirlineName: "TCI Skyking (RU)",
+IATACode: "RU"
+},
+{
+AirlineName: "Air Canada Rouge (RV)",
+IATACode: "RV"
+},
+{
+AirlineName: "Royal Air Charter Service  (RW)",
+IATACode: "RW"
+},
+{
+AirlineName: "Regent Airways (RX)",
+IATACode: "RX"
+},
+{
+AirlineName: "Jiangxi Air (RY)",
+IATACode: "RY"
+},
+{
+AirlineName: "Servicios Aereos Nacionales S.A. (RZ)",
+IATACode: "RZ"
+},
+{
+AirlineName: "Slok Air International (S0)",
+IATACode: "S0"
+},
+{
+AirlineName: "JetKonnect (S2)",
+IATACode: "S2"
+},
+{
+AirlineName: "Santa Barbara Airlines (S3)",
+IATACode: "S3"
+},
+{
+AirlineName: "SATA International-Azores Airlines S.A. (S4)",
+IATACode: "S4"
+},
+{
+AirlineName: "Shuttle America (S5)",
+IATACode: "S5"
+},
+{
+AirlineName: "Sunrise Airways (S6)",
+IATACode: "S6"
+},
+{
+AirlineName: "S7 Airlines (S7)",
+IATACode: "S7"
+},
+{
+AirlineName: "Sounds Air (S8)",
+IATACode: "S8"
+},
+{
+AirlineName: "Starbow (S9)",
+IATACode: "S9"
+},
+{
+AirlineName: "South African Airways (SA)",
+IATACode: "SA"
+},
+{
+AirlineName: "Aircalin (SB)",
+IATACode: "SB"
+},
+{
+AirlineName: "Shandong Airlines (SC)",
+IATACode: "SC"
+},
+{
+AirlineName: "Sudan Airways (SD)",
+IATACode: "SD"
+},
+{
+AirlineName: "XL Airways (SE)",
+IATACode: "SE"
+},
+{
+AirlineName: "Tassili Airlines (SF)",
+IATACode: "SF"
+},
+{
+AirlineName: "SpiceJet (SG)",
+IATACode: "SG"
+},
+{
+AirlineName: "Sharp Airlines (SH)",
+IATACode: "SH"
+},
+{
+AirlineName: "Blue Islands (SI)",
+IATACode: "SI"
+},
+{
+AirlineName: "Sriwijaya Air (SJ)",
+IATACode: "SJ"
+},
+{
+AirlineName: "SAS (SK)",
+IATACode: "SK"
+},
+{
+AirlineName: "Thai Lion Mantari (SL)",
+IATACode: "SL"
+},
+{
+AirlineName: "Air Cairo (SM)",
+IATACode: "SM"
+},
+{
+AirlineName: "Brussels Airlines (SN)",
+IATACode: "SN"
+},
+{
+AirlineName: "Sosoliso Airlines (SO)",
+IATACode: "SO"
+},
+{
+AirlineName: "SATA Air Acores (SP)",
+IATACode: "SP"
+},
+{
+AirlineName: "Singapore Airlines (SQ)",
+IATACode: "SQ"
+},
+{
+AirlineName: "Corsair (SS)",
+IATACode: "SS"
+},
+{
+AirlineName: "Germania (ST)",
+IATACode: "ST"
+},
+{
+AirlineName: "Aeroflot-Russian Airlines (SU)",
+IATACode: "SU"
+},
+{
+AirlineName: "Saudi Arabian Airlines (SV)",
+IATACode: "SV"
+},
+{
+AirlineName: "Air Namibia (SW)",
+IATACode: "SW"
+},
+{
+AirlineName: "SkyWork Airlines (SX)",
+IATACode: "SX"
+},
+{
+AirlineName: "Sun Country Airlines (SY)",
+IATACode: "SY"
+},
+{
+AirlineName: "Aircompany Somon Air (SZ)",
+IATACode: "SZ"
+},
+{
+AirlineName: "Taca Peru (T0)",
+IATACode: "T0"
+},
+{
+AirlineName: "Eastern Airways (T3)",
+IATACode: "T3"
+},
+{
+AirlineName: "TRIP Linhas Aereas (T4)",
+IATACode: "T4"
+},
+{
+AirlineName: "Turkmenistan Airlines (T5)",
+IATACode: "T5"
+},
+{
+AirlineName: "1 Time Airlines (T6)",
+IATACode: "T6"
+},
+{
+AirlineName: "Twin Jet (T7)",
+IATACode: "T7"
+},
+{
+AirlineName: "Trans African Airlines (T8)",
+IATACode: "T8"
+},
+{
+AirlineName: "TransMeridian Airlines (T9)",
+IATACode: "T9"
+},
+{
+AirlineName: "TACA Airlines (TA)",
+IATACode: "TA"
+},
+{
+AirlineName: "TUI fly (TB)",
+IATACode: "TB"
+},
+{
+AirlineName: "Air Tanzania (TC)",
+IATACode: "TC"
+},
+{
+AirlineName: "Atlantis European Airways (TD)",
+IATACode: "TD"
+},
+{
+AirlineName: "Fly LAL (TE)",
+IATACode: "TE"
+},
+{
+AirlineName: "Braathens Regional Aviation (TF)",
+IATACode: "TF"
+},
+{
+AirlineName: "Thai Airways International (TG)",
+IATACode: "TG"
+},
+{
+AirlineName: "BA Connect (TH)",
+IATACode: "TH"
+},
+{
+AirlineName: "Tailwind Airlines (TI)",
+IATACode: "TI"
+},
+{
+AirlineName: "Tradewind Aviation (TJ)",
+IATACode: "TJ"
+},
+{
+AirlineName: "Turkish Airlines (TK)",
+IATACode: "TK"
+},
+{
+AirlineName: "Airnorth Regional (TL)",
+IATACode: "TL"
+},
+{
+AirlineName: "Linhas Aereas de Mocambique (LAM) (TM)",
+IATACode: "TM"
+},
+{
+AirlineName: "Air Tahiti Nui (TN)",
+IATACode: "TN"
+},
+{
+AirlineName: "Transavia France (TO)",
+IATACode: "TO"
+},
+{
+AirlineName: "TAP Portugal (TP)",
+IATACode: "TP"
+},
+{
+AirlineName: "Tandem Aero (TQ)",
+IATACode: "TQ"
+},
+{
+AirlineName: "Scoot (TR)",
+IATACode: "TR"
+},
+{
+AirlineName: "Air Transat (TS)",
+IATACode: "TS"
+},
+{
+AirlineName: "Tigerair Australia (TT)",
+IATACode: "TT"
+},
+{
+AirlineName: "Tunis Air (TU)",
+IATACode: "TU"
+},
+{
+AirlineName: "TIBET AIRLINES CORP LTD (TV)",
+IATACode: "TV"
+},
+{
+AirlineName: "T'Way Air (TW)",
+IATACode: "TW"
+},
+{
+AirlineName: "Air Caraibes (TX)",
+IATACode: "TX"
+},
+{
+AirlineName: "Air Caledonie (TY)",
+IATACode: "TY"
+},
+{
+AirlineName: "easyJet (U2)",
+IATACode: "U2"
+},
+{
+AirlineName: "Avies Ltd. (U3)",
+IATACode: "U3"
+},
+{
+AirlineName: "Buddha Air (U4)",
+IATACode: "U4"
+},
+{
+AirlineName: "USA 3000 (U5)",
+IATACode: "U5"
+},
+{
+AirlineName: "Ural Airlines (U6)",
+IATACode: "U6"
+},
+{
+AirlineName: "Air Uganda (U7)",
+IATACode: "U7"
+},
+{
+AirlineName: "TUS Airways (U8)",
+IATACode: "U8"
+},
+{
+AirlineName: "Tatarstan JSC Aircompany (U9)",
+IATACode: "U9"
+},
+{
+AirlineName: "United (UA)",
+IATACode: "UA"
+},
+{
+AirlineName: "Myanmar National Airlines (UB)",
+IATACode: "UB"
+},
+{
+AirlineName: "LADECO Airlines (UC)",
+IATACode: "UC"
+},
+{
+AirlineName: "Hex'Air (UD)",
+IATACode: "UD"
+},
+{
+AirlineName: "Nasair (UE)",
+IATACode: "UE"
+},
+{
+AirlineName: "Ukrainian Mediterranean Airlines (UF)",
+IATACode: "UF"
+},
+{
+AirlineName: "TunisAir Express (UG)",
+IATACode: "UG"
+},
+{
+AirlineName: "Atlasjet Ukraine (UH)",
+IATACode: "UH"
+},
+{
+AirlineName: "Auric Air Services (UI)",
+IATACode: "UI"
+},
+{
+AirlineName: "Almasria Universal Air (UJ)",
+IATACode: "UJ"
+},
+{
+AirlineName: "Vistara (UK)",
+IATACode: "UK"
+},
+{
+AirlineName: "SriLankan Airlines (UL)",
+IATACode: "UL"
+},
+{
+AirlineName: "Air Zimbabwe (UM)",
+IATACode: "UM"
+},
+{
+AirlineName: "Transaero Airlines (UN)",
+IATACode: "UN"
+},
+{
+AirlineName: "HK Express (UO)",
+IATACode: "UO"
+},
+{
+AirlineName: "Bahamasair (UP)",
+IATACode: "UP"
+},
+{
+AirlineName: "O'Connor Airlines (UQ)",
+IATACode: "UQ"
+},
+{
+AirlineName: "US Airways (US)",
+IATACode: "US"
+},
+{
+AirlineName: "Utair Aviation (UT)",
+IATACode: "UT"
+},
+{
+AirlineName: "Air Austral (UU)",
+IATACode: "UU"
+},
+{
+AirlineName: "Helisureste (UV)",
+IATACode: "UV"
+},
+{
+AirlineName: "Universal Airlines (UW)",
+IATACode: "UW"
+},
+{
+AirlineName: "Air Europa (UX)",
+IATACode: "UX"
+},
+{
+AirlineName: "Cameroon Airlines (UY)",
+IATACode: "UY"
+},
+{
+AirlineName: "Buraq Air Transport (UZ)",
+IATACode: "UZ"
+},
+{
+AirlineName: "CONVIASA (V0)",
+IATACode: "V0"
+},
+{
+AirlineName: "VFly (V1)",
+IATACode: "V1"
+},
+{
+AirlineName: "Vision Airlines (V2)",
+IATACode: "V2"
+},
+{
+AirlineName: "Carpatair (V3)",
+IATACode: "V3"
+},
+{
+AirlineName: "Vieques Air Link (V4)",
+IATACode: "V4"
+},
+{
+AirlineName: "Aerovias DAP S.A (V5)",
+IATACode: "V5"
+},
+{
+AirlineName: "VI Airlink (V6)",
+IATACode: "V6"
+},
+{
+AirlineName: "Volotea (V7)",
+IATACode: "V7"
+},
+{
+AirlineName: "Iliamna Airlines (V8)",
+IATACode: "V8"
+},
+{
+AirlineName: "Van Air Europe (V9)",
+IATACode: "V9"
+},
+{
+AirlineName: "Virgin Australia (VA)",
+IATACode: "VA"
+},
+{
+AirlineName: "VivaAerobus (VB)",
+IATACode: "VB"
+},
+{
+AirlineName: "ViaAir (VC)",
+IATACode: "VC"
+},
+{
+AirlineName: "AirAsia Vietjet (VD)",
+IATACode: "VD"
+},
+{
+AirlineName: "C.A.I SECOND S.P.A (VE)",
+IATACode: "VE"
+},
+{
+AirlineName: "Flyviking (VF)",
+IATACode: "VF"
+},
+{
+AirlineName: "VLM Air (VG)",
+IATACode: "VG"
+},
+{
+AirlineName: "Aeropostal (VH)",
+IATACode: "VH"
+},
+{
+AirlineName: "Vietjet Air (VJ)",
+IATACode: "VJ"
+},
+{
+AirlineName: "Air Nigeria (VK)",
+IATACode: "VK"
+},
+{
+AirlineName: "Med View Airlines (VL)",
+IATACode: "VL"
+},
+{
+AirlineName: "Viaggio Air (VM)",
+IATACode: "VM"
+},
+{
+AirlineName: "Vietnam Airlines (VN)",
+IATACode: "VN"
+},
+{
+AirlineName: "VLM Airlines (VO)",
+IATACode: "VO"
+},
+{
+AirlineName: "Villa Air (VP)",
+IATACode: "VP"
+},
+{
+AirlineName: "Viking Hellas Airlines (VQ)",
+IATACode: "VQ"
+},
+{
+AirlineName: "TACV-Cabo Verde Airlines (VR)",
+IATACode: "VR"
+},
+{
+AirlineName: "Virgin Atlantic (VS)",
+IATACode: "VS"
+},
+{
+AirlineName: "Air Tahiti (VT)",
+IATACode: "VT"
+},
+{
+AirlineName: "Air Ivoire (VU)",
+IATACode: "VU"
+},
+{
+AirlineName: "Aerosvit Airlines (VV)",
+IATACode: "VV"
+},
+{
+AirlineName: "Aeromar Airlines (VW)",
+IATACode: "VW"
+},
+{
+AirlineName: "Virgin America (VX)",
+IATACode: "VX"
+},
+{
+AirlineName: "Vueling Airlines (VY)",
+IATACode: "VY"
+},
+{
+AirlineName: "Thai Vietjet (VZ)",
+IATACode: "VZ"
+},
+{
+AirlineName: "FlexFlight (W2)",
+IATACode: "W2"
+},
+{
+AirlineName: "Arik Air International (W3)",
+IATACode: "W3"
+},
+{
+AirlineName: "LC Peru (W4)",
+IATACode: "W4"
+},
+{
+AirlineName: "Mahan Airlines (W5)",
+IATACode: "W5"
+},
+{
+AirlineName: "Wizz Air (W6)",
+IATACode: "W6"
+},
+{
+AirlineName: "Wings of Lebanon (W7)",
+IATACode: "W7"
+},
+{
+AirlineName: "Air Bagan (W9)",
+IATACode: "W9"
+},
+{
+AirlineName: "KLM City Hopp (WA)",
+IATACode: "WA"
+},
+{
+AirlineName: "Rwandair (WB)",
+IATACode: "WB"
+},
+{
+AirlineName: "Islena Airlines (WC)",
+IATACode: "WC"
+},
+{
+AirlineName: "DAS Air Limited (WD)",
+IATACode: "WD"
+},
+{
+AirlineName: "Thai Smile Airways (WE)",
+IATACode: "WE"
+},
+{
+AirlineName: "Widerøe (WF)",
+IATACode: "WF"
+},
+{
+AirlineName: "Sunwing (WG)",
+IATACode: "WG"
+},
+{
+AirlineName: "WebJet (WH)",
+IATACode: "WH"
+},
+{
+AirlineName: "White Airways S.A. (WI)",
+IATACode: "WI"
+},
+{
+AirlineName: "Air Labrador (WJ)",
+IATACode: "WJ"
+},
+{
+AirlineName: "Edelweiss Air (WK)",
+IATACode: "WK"
+},
+{
+AirlineName: "Aeroperlas (WL)",
+IATACode: "WL"
+},
+{
+AirlineName: "Windward Island Airways International (WM)",
+IATACode: "WM"
+},
+{
+AirlineName: "Southwest Airlines (WN)",
+IATACode: "WN"
+},
+{
+AirlineName: "World Airways (WO)",
+IATACode: "WO"
+},
+{
+AirlineName: "Island Air (WP)",
+IATACode: "WP"
+},
+{
+AirlineName: "Romanian Aviation Company (WQ)",
+IATACode: "WQ"
+},
+{
+AirlineName: "Westjet Encore (WR)",
+IATACode: "WR"
+},
+{
+AirlineName: "WestJet (WS)",
+IATACode: "WS"
+},
+{
+AirlineName: "Wasaya Airways (WT)",
+IATACode: "WT"
+},
+{
+AirlineName: "Tikal Jets (WU)",
+IATACode: "WU"
+},
+{
+AirlineName: "AERO VIP COMPANHIA TRANSPORTES (WV)",
+IATACode: "WV"
+},
+{
+AirlineName: "WOW air (WW)",
+IATACode: "WW"
+},
+{
+AirlineName: "Cityjet (WX)",
+IATACode: "WX"
+},
+{
+AirlineName: "Oman Air (WY)",
+IATACode: "WY"
+},
+{
+AirlineName: "Red Wings Airlines (WZ)",
+IATACode: "WZ"
+},
+{
+AirlineName: "TUIfly (X3)",
+IATACode: "X3"
+},
+{
+AirlineName: "Air Excursions LLC (X4)",
+IATACode: "X4"
+},
+{
+AirlineName: "Afrique Airlines (X5)",
+IATACode: "X5"
+},
+{
+AirlineName: "Exec Air (X7)",
+IATACode: "X7"
+},
+{
+AirlineName: "Icaro S.A. (X8)",
+IATACode: "X8"
+},
+{
+AirlineName: "Avion Express (X9)",
+IATACode: "X9"
+},
+{
+AirlineName: "Corendon (XC)",
+IATACode: "XC"
+},
+{
+AirlineName: "Corendon Dutch (XD)",
+IATACode: "XD"
+},
+{
+AirlineName: "ExpressJet Airlines (XE)",
+IATACode: "XE"
+},
+{
+AirlineName: "Vladivostok Air (XF)",
+IATACode: "XF"
+},
+{
+AirlineName: "SunExpress Germany (XG)",
+IATACode: "XG"
+},
+{
+AirlineName: "Thai AirAsia X (XJ)",
+IATACode: "XJ"
+},
+{
+AirlineName: "Air Corsica (XK)",
+IATACode: "XK"
+},
+{
+AirlineName: "LATAM Airlines Ecuador (XL)",
+IATACode: "XL"
+},
+{
+AirlineName: "C.A.I. First S.P.A. (XM)",
+IATACode: "XM"
+},
+{
+AirlineName: "Xpressair (XN)",
+IATACode: "XN"
+},
+{
+AirlineName: "South East Asian Airlines (SEAIR)"
+},
+{
+AirlineName: "International",
+IATACode: " Inc. (XO)"
+},
+{
+AirlineName: "Xtra Airways (XP)",
+IATACode: "XP"
+},
+{
+AirlineName: "SunExpress (XQ)",
+IATACode: "XQ"
+},
+{
+AirlineName: "Skywest Airlines (XR)",
+IATACode: "XR"
+},
+{
+AirlineName: "Indonesia AirAsia X (XT)",
+IATACode: "XT"
+},
+{
+AirlineName: "African Express Airways (XU)",
+IATACode: "XU"
+},
+{
+AirlineName: "Ivoire Airways (XV)",
+IATACode: "XV"
+},
+{
+AirlineName: "NokScoot (XW)",
+IATACode: "XW"
+},
+{
+AirlineName: "flynas (XY)",
+IATACode: "XY"
+},
+{
+AirlineName: "South African Express (XZ)",
+IATACode: "XZ"
+},
+{
+AirlineName: "Yellow Air Taxi (Y0)",
+IATACode: "Y0"
+},
+{
+AirlineName: "Ryukyu Air Commuter RAC (Y1)",
+IATACode: "Y1"
+},
+{
+AirlineName: "FlyGlobespan (Y2)",
+IATACode: "Y2"
+},
+{
+AirlineName: "Volaris (Y4)",
+IATACode: "Y4"
+},
+{
+AirlineName: "NordStar Airlines (Y7)",
+IATACode: "Y7"
+},
+{
+AirlineName: "Kish Airlines (Y9)",
+IATACode: "Y9"
+},
+{
+AirlineName: "Borajet (YB)",
+IATACode: "YB"
+},
+{
+AirlineName: "Yamal Airlines (YC)",
+IATACode: "YC"
+},
+{
+AirlineName: "Mauritania Airways (YD)",
+IATACode: "YD"
+},
+{
+AirlineName: "Yanair (YE)",
+IATACode: "YE"
+},
+{
+AirlineName: "South Airlines (YG)",
+IATACode: "YG"
+},
+{
+AirlineName: "West Caribbean Airways (YH)",
+IATACode: "YH"
+},
+{
+AirlineName: "Air Sunshine (YI)",
+IATACode: "YI"
+},
+{
+AirlineName: "Asian Wings Airways (YJ)",
+IATACode: "YJ"
+},
+{
+AirlineName: "Avia Traffic Company (YK)",
+IATACode: "YK"
+},
+{
+AirlineName: "Libyan Wings (YL)",
+IATACode: "YL"
+},
+{
+AirlineName: "Montenegro (YM)",
+IATACode: "YM"
+},
+{
+AirlineName: "Air Creebec (YN)",
+IATACode: "YN"
+},
+{
+AirlineName: "Heli Air Monaco (YO)",
+IATACode: "YO"
+},
+{
+AirlineName: "Polet Airlines (YQ)",
+IATACode: "YQ"
+},
+{
+AirlineName: "Scenic Airways (YR)",
+IATACode: "YR"
+},
+{
+AirlineName: "HOP Regional (YS)",
+IATACode: "YS"
+},
+{
+AirlineName: "Air Togo (YT)",
+IATACode: "YT"
+},
+{
+AirlineName: "EuroAtlantic Airways (YU)",
+IATACode: "YU"
+},
+{
+AirlineName: "Mesa Airlines (YV)",
+IATACode: "YV"
+},
+{
+AirlineName: "Air Nostrum (YW)",
+IATACode: "YW"
+},
+{
+AirlineName: "Republic Airlines (YX)",
+IATACode: "YX"
+},
+{
+AirlineName: "multiple airlines (YY)",
+IATACode: "YY"
+},
+{
+AirlineName: "Holland Exel (YZ)",
+IATACode: "YZ"
+},
+{
+AirlineName: "Miami Air International (Z1)",
+IATACode: "Z1"
+},
+{
+AirlineName: "AirAsia Zest (Z2)",
+IATACode: "Z2"
+},
+{
+AirlineName: "Promech (Z3)",
+IATACode: "Z3"
+},
+{
+AirlineName: "Zagros Air (Z4)",
+IATACode: "Z4"
+},
+{
+AirlineName: "GMG Airlines (Z5)",
+IATACode: "Z5"
+},
+{
+AirlineName: "Dnieprovia (Z6)",
+IATACode: "Z6"
+},
+{
+AirlineName: "FLY AFRICA ZIMBABWE (Z7)",
+IATACode: "Z7"
+},
+{
+AirlineName: "Amaszonas (Z8)",
+IATACode: "Z8"
+},
+{
+AirlineName: "BEK AIR (Z9)",
+IATACode: "Z9"
+},
+{
+AirlineName: "Sky Angkor Airlines (ZA)",
+IATACode: "ZA"
+},
+{
+AirlineName: "Monarch Airlines (ZB)",
+IATACode: "ZB"
+},
+{
+AirlineName: "Royal Swazi National Airways (ZC)",
+IATACode: "ZC"
+},
+{
+AirlineName: "Ewa Air (ZD)",
+IATACode: "ZD"
+},
+{
+AirlineName: "Eastar Jet (ZE)",
+IATACode: "ZE"
+},
+{
+AirlineName: "Atlantic Airlines (ZF)",
+IATACode: "ZF"
+},
+{
+AirlineName: "Groznyy Avia (ZG)",
+IATACode: "ZG"
+},
+{
+AirlineName: "Shenzhen Airlines (ZH)",
+IATACode: "ZH"
+},
+{
+AirlineName: "Aigle Azur (ZI)",
+IATACode: "ZI"
+},
+{
+AirlineName: "Zambezi Airlines (ZJ)",
+IATACode: "ZJ"
+},
+{
+AirlineName: "Great Lakes Airlines (ZK)",
+IATACode: "ZK"
+},
+{
+AirlineName: "Regional Express (ZL)",
+IATACode: "ZL"
+},
+{
+AirlineName: "Pegasus Asia (ZM)",
+IATACode: "ZM"
+},
+{
+AirlineName: "Naysa (ZN)",
+IATACode: "ZN"
+},
+{
+AirlineName: "Caribbean Sun (ZQ)",
+IATACode: "ZQ"
+},
+{
+AirlineName: "Sama Airways (ZS)",
+IATACode: "ZS"
+},
+{
+AirlineName: "Air Midwest (ZV)",
+IATACode: "ZV"
+},
+{
+AirlineName: "Air Wisconsin (ZW)",
+IATACode: "ZW"
+},
+{
+AirlineName: "Zoom Airlines (ZX)",
+IATACode: "ZX"
+},
+{
+AirlineName: "ADA Air (ZY)",
+IATACode: "ZY"
+},
+{
+AirlineName: "Golden Myanmar Airlines (Y5)",
+IATACode: "Y5"
+},
+{
+AirlineName: ""
+}
+]
